@@ -1,0 +1,32 @@
+#heading {
+    text-align: center;
+}
+.container {
+    background-color: aqua;
+    display: flex;
+    width: 663px;
+    align-items: center;
+    border: 4px solid black;
+    justify-content: center;
+}
+.odd {
+    background-color: blue;
+    display: grid;
+    gap: 5px;
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+}
+.even {
+    background-color: rgb(211, 93, 19);
+    display: grid;
+    gap: 5px;
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+}
+.odd, .even {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

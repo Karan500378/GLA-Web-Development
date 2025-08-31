@@ -1,0 +1,34 @@
+.logo {
+    background-color: antiquewhite;
+}
+.logo {
+    height: 50px;
+    width: 50px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(249, 240, 237);
+    text-align: center;
+    align-items: center;
+}
+#inputbox {
+    width: 20rem;
+    height: 1.5em;
+    border-radius: 10px;
+}
+.footer {
+    background-color: rgba(237, 206, 206, 1);
+    display: flex;
+    justify-content: space-between;
+}
+.footer a {
+    text-decoration: none;
+    color: black;
+}
+.footer a:hover {
+    text-decoration: underline;
+}
+#address {
+    padding-right: 10px;
+}

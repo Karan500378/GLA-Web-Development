@@ -1,0 +1,20 @@
+body {
+    background-image: url("/images/image-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#property {
+    color: blue;
+    background-color: chartreuse;
+    width: 350px;
+    height: 110px;
+    background-image: url("/images/background-image.jpg");
+    text-align: center;
+    text-decoration: underline red;
+    text-transform: uppercase;
+    font: 100;
+    line-height: 50px;
+}
+#hidden {
+    visibility: hidden;
+}
