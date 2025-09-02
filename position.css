@@ -1,0 +1,27 @@
+.div1 {
+    height: 80px;
+    width: 80px;
+    background-color: pink;
+    position: absolute;
+}
+
+.div2 {
+    height: 80px;
+    width: 80px;
+    background-color: blue;
+    position: relative;
+}
+
+.div3 {
+    height: 80px;
+    width: 80px;
+    background-color: green;
+    position: fixed;
+}
+
+.div4 {
+    height: 80px;
+    width: 80px;
+    background-color: orange;
+    position: static;
+}
